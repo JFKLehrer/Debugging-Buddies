@@ -7,14 +7,13 @@ Willkommen beim kollaborativen Fehlerkorrektur-Tool! Dieses Repository dient als
 
 ### Fehlerhaften Code teilen
 
-1. **Issue erstellen**: Wenn du Code hast, der nicht wie erwartet funktioniert, erstelle ein neues Issue im Repository. Gib deinem Issue einen klaren und aussagekräftigen Titel, der das Problem zusammenfasst.
+1. **Issue erstellen**: Wenn du Code hast, der nicht wie erwartet funktioniert, erstelle ein neues Issue im Repository. Gib deinem Issue einen klaren und aussagekräftigen Titel, der das Problem zusammenfasst. Füge auch den fehlerhaften Code an. 
 2. **Problem beschreiben**: Beschreibe das Problem im Detail. Füge den fehlerhaften Code hinzu und erkläre, was der Code tun sollte und welche Fehlermeldungen oder Probleme aufgetreten sind. Je mehr Informationen du bereitstellst, desto einfacher ist es für andere, dir zu helfen.
 
 ### Zur Korrektur beitragen
 
 1. **Issues durchsuchen**: Schau dir die offenen Issues an und finde eines, bei dem du helfen möchtest.
 2. **Lösung vorschlagen**: Kommentiere das Issue mit deinem Lösungsvorschlag oder Diskussionsbeiträgen. Wenn du einen Code-Vorschlag hast, erwäge, einen Pull Request zu erstellen, der deine vorgeschlagenen Änderungen zeigt.
-3. **Pull Requests erstellen**: Um einen Code-Vorschlag zu machen, forke das Repository, erstelle einen neuen Branch, führe deine Änderungen durch und erstelle dann einen Pull Request. Erkläre in deinem Pull Request, wie deine Änderungen das Problem lösen.
 
 ### Allgemeine Richtlinien
 
