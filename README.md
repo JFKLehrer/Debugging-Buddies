@@ -25,7 +25,6 @@ Willkommen beim kollaborativen Fehlerkorrektur-Tool! Dieses Repository dient als
 ## Ressourcen
 
 - [Markdown Guide](https://www.markdownguide.org) - Ein Leitfaden, um zu lernen, wie man Markdown für die Formatierung von Text verwendet.
-- [How to Create a Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) - Eine Anleitung von GitHub, wie man Pull Requests erstellt.
 
 ## Unterstützung
 
